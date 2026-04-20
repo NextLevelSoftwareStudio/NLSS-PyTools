@@ -24,7 +24,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 
 [project.urls]
-"Homepage" = "https://github.com/NextLevelSoftwareStudio/NLSS-PyDTS"
+"Homepage" = "https://github.com/NextLevelSoftwareStudio/NLSS-PyTools"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/nlss-pytools"]
