@@ -19,7 +19,7 @@ classifiers = [
   "Intended Audience :: Developers",
   "Natural Language :: English",
 ]
-description = "NLSS Data Transfer System"
+description = "A Next Level Software Studio project."
 readme = "README.md"
 requires-python = ">=3.14"
 
@@ -27,4 +27,4 @@ requires-python = ">=3.14"
 "Homepage" = "https://github.com/NextLevelSoftwareStudio/NLSS-PyTools"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/nlss-pytools"]
+packages = ["src/pytools"]
