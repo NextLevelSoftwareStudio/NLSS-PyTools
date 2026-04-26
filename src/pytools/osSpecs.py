@@ -83,11 +83,3 @@ def OperatingSystem(verbose=False):
         print(f"[Verbose] Resultado final: {res}")
         
     return res
-
-# Exemplos de uso:
-if __name__ == "__main__":
-    # Sem verbose (silencioso)
-    print(f"Sistema: {OperatingSystem()}")
-    
-    # Com verbose (detalhado)
-    # print(f"Sistema: {OperatingSystem(verbose=True)}")
