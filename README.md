@@ -1,8 +1,6 @@
 # PyTools (Next Level Software Studio PyTools)
 
-O **PyTools** é uma biblioteca Python desenvolvida pela **Next Level Software Studio** para facilitar a troca de dados e a cooperação entre diferentes processos e dispositivos.
-
-Diferente de sistemas centralizados convencionais, o PyDTS utiliza uma arquitetura onde a carga de trabalho é distribuída: cada dispositivo participante da rede contribui com uma parcela do processamento e da memória, criando um ecossistema de comunicação dinâmico e eficiente.
+O **PyTools** é uma biblioteca Python desenvolvida pela **Next Level Software Studio**.
 
 ## 🛠️ Instalação
 
